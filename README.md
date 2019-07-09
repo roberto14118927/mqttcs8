@@ -18,6 +18,7 @@ tsc -w pasar de ts a js
 Conectar a la base de datos
 Generar peticiones get, delete, post
 Guardar la informacion 
+Consultar con id
 ```
 
 
