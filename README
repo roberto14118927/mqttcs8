@@ -10,6 +10,7 @@ npm install @types/socket.io --dev
 
 
 npm install -g typescript
-tsc
+tsc --init 
+tsc -w pasar de ts a js
 
 
